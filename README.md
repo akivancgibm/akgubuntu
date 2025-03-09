@@ -1,3 +1,1 @@
 # akgubuntu
-akg
-
