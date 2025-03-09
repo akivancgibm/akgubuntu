@@ -31,7 +31,7 @@ public class HelloServlet extends HttpServlet {
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
         throws ServletException, IOException {
         // tag::responseString[]
-        response.getWriter().append("Hello! How are you today akg?\n");
+        response.getWriter().append("Hello! How are you today akg2?\n");
         // end::responseString[]
     }
 
